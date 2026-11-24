@@ -1,0 +1,5 @@
+{
+  "name": "StockEasy",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "forwardPorts": [5173, 8080]
+}
