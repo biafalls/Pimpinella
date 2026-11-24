@@ -7,7 +7,8 @@ O sistema foi desenvolvido como projeto acadêmico de **Haskell** para organizar
 > 🚧 **Status do projeto:** Em desenvolvimento
 
 
-<img align="left" width="230" alt="Gato tomando sorvete, GIF de UGCPazar" src="https://github.com/user-attachments/assets/c73e8fa8-c64d-4679-9693-87fb79e0f78c">
+<img align="left" width="230" alt="Ice Cream Cat GIF by UGCPazar" src="https://github.com/user-attachments/assets/ca6000b0-1af4-49a1-bf3b-b80d7ffce483" />
+
 
 ### &emsp;Gerenciamento Inteligente de Estoque
 
